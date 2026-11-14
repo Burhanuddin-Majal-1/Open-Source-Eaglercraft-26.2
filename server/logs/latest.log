@@ -94,3 +94,23 @@
 [07:11:19] [Craft Scheduler Thread - 2 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
 [07:11:19] [Craft Scheduler Thread - 2 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
 [07:11:19] [Craft Scheduler Thread - 2 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07:40:49] [User Authenticator #0/INFO]: UUID of player Majal is 900cb5db-55ea-3e6f-aad1-fa4df0c45db9
+[07:40:49] [Server thread/INFO]: Disconnecting Majal (/127.0.0.1:57810): You are not whitelisted on this server!
+[07:40:49] [Server thread/INFO]: Majal (/127.0.0.1:57810) lost connection: You are not whitelisted on this server!
+[07:41:31] [Server thread/INFO]: System chat: Whitelist is now turned off
+[07:42:32] [User Authenticator #1/INFO]: UUID of player Majal is 900cb5db-55ea-3e6f-aad1-fa4df0c45db9
+[07:42:55] [Server thread/INFO]: System chat: Majal joined the game
+[07:42:55] [Server thread/INFO]: Majal[/127.0.0.1:51918] logged in with entity id 1 at ([minecraft:overworld]-111.5, 67.0, 604.5)
+[07:42:55] [Craft Scheduler Thread - 12 - AuthMe/INFO]: [AuthMe] Majal logged in 127.0.0.1
+[07:42:55] [Server thread/INFO]: [AuthMe] Majal registered 127.0.0.1
+[07:43:25] [Server thread/INFO]: System chat: Majal was slain by Zombie
+[07:43:41] [Server thread/INFO]: System chat: Majal was slain by Zombie
+[07:43:59] [Server thread/INFO]: System chat: Set Majal's game mode to Creative Mode
+[07:46:13] [Server thread/INFO]: Majal lost connection: Disconnected
+[07:46:14] [Server thread/INFO]: System chat: Majal left the game
+[07:46:52] [User Authenticator #2/INFO]: UUID of player Majal is 900cb5db-55ea-3e6f-aad1-fa4df0c45db9
+[07:47:04] [Server thread/INFO]: System chat: Majal joined the game
+[07:47:04] [Server thread/INFO]: Majal[/127.0.0.1:37778] logged in with entity id 944 at ([minecraft:overworld]-100.4904134949182, 71.74151827580619, 620.9304782892233)
+[07:47:04] [Craft Scheduler Thread - 16 - AuthMe/INFO]: [AuthMe] Majal logged in 127.0.0.1
+[07:50:25] [Server thread/INFO]: Majal issued server command: /
+[07:50:32] [Async Chat Thread - #1/INFO]: [Not Secure] <Majal> hello

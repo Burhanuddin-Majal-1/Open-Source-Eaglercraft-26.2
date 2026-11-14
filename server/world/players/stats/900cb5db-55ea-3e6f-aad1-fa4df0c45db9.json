@@ -1,0 +1,45 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:short_grass": 3
+    },
+    "minecraft:dropped": {
+      "minecraft:anvil": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:zombie": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 15000,
+      "minecraft:walk_one_cm": 4984,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 1898,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 685,
+      "minecraft:damage_dealt": 197,
+      "minecraft:play_time": 15889,
+      "minecraft:jump": 65,
+      "minecraft:time_since_death": 14980,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 55,
+      "minecraft:fall_one_cm": 260,
+      "minecraft:total_world_time": 15889,
+      "minecraft:fly_one_cm": 42281,
+      "minecraft:interact_with_anvil": 3,
+      "minecraft:walk_on_water_one_cm": 275,
+      "minecraft:crouch_one_cm": 91,
+      "minecraft:sneak_time": 215,
+      "minecraft:deaths": 2
+    },
+    "minecraft:killed": {
+      "minecraft:bee": 1
+    },
+    "minecraft:used": {
+      "minecraft:anvil": 8,
+      "minecraft:netherite_axe": 116,
+      "minecraft:netherite_spear": 2,
+      "minecraft:birch_log": 132
+    }
+  },
+  "DataVersion": 5023
+}
